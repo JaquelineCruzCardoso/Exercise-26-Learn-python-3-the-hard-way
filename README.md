@@ -1,7 +1,7 @@
 # Exercise-26-Learn-python-3-the-hard-way
 for this task, I have to repair the code in python, in the following file you can find the solution.
 
-```pyhton
+~~~pyhton
 def break_words(stuff):
     """This function will break up words for us."""
     words = stuff.split(' ')
